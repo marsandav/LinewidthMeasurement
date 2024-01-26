@@ -1,6 +1,7 @@
 # LinewidthMeasurement
 
-Dataset of frequency noise measurements and script used plot the results from the paper: David Martin-Sanchez, Zhixin Liu, Edward Z. Zhang, James A. Guggenheim, and Paul C. Beard, "Time-resolved frequency noise measurement using tunable frequency discriminator".
+Dataset of frequency noise measurements and script used plot the results from the paper: David Martin-Sanchez, Edward Z. Zhang, James A. Guggenheim, Zhixin Liu, and Paul C. Beard, "Laser frequency noise characterization using
+high-finesse plano–concave optical microresonators".
 
 If you publish scientific results based on this script, please consider citing the paper.
 
